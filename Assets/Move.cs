@@ -11,7 +11,7 @@ public class Move : MonoBehaviour {
 	}
 
 	void Update () {
-		Debug.Log ("Hei BitBucket!");
+		Debug.Log ("Hei GitHub!");
 		delay++;
 
 		if (delay == 600)
