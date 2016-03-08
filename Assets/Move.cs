@@ -17,7 +17,7 @@ public class Move : MonoBehaviour {
 		if (delay == 600)
 			SceneManager.LoadScene(1);
 
-		print ("delay " + delay);
+		print ("delay " + delay + "jump");
 	
 	}
 }
